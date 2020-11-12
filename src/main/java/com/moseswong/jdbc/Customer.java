@@ -1,7 +1,7 @@
 package com.moseswong.jdbc;
 
 import com.moseswong.jdbc.util.DataTransferObject;
-
+//
 public class Customer implements DataTransferObject {
     private long id;
     private String firstName;
